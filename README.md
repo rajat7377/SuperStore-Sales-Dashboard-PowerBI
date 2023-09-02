@@ -1,7 +1,7 @@
 # Super Store Sales Dashboard using PowerBI
 # Objective :-
 
-To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights. This project is based on E-commerce sales insights from Super Store Sales.
+To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting. This project is based on E-commerce sales insights from Super Store Sales.
 
 # I worked on this project
 •Data Collecting •Data Importing •Data Cleaning •Data Processing •Data Analysis & Visualization •Dashboard Creation •Sales Forecasting •Actionable Insights U•seful Insights #Data cleaning and processing
