@@ -4,7 +4,7 @@
 To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting. This project is based on E-commerce sales insights from Super Store Sales.
 
 # I worked on this project
-•Data Collecting •Data Importing •Data Cleaning •Data Processing •Data Analysis & Visualization •Dashboard Creation •Sales Forecasting •Actionable Insights U•seful Insights #Data cleaning and processing
+•Data Collecting •Data Importing •Data Cleaning •Data Processing •Data Analysis & Visualization •Dashboard Creation •Sales Forecasting •Actionable Insights •Useful Insights #Data cleaning and processing
 
 After collecting csv files and loading it into PowerBI performed various activities in Power Query Editor like, removing duplicates, removing missing values, removing unimportant columns, adding new columns for need (Using Dax query) and transforming the data into a format that can be easily analyzed.
 
@@ -20,4 +20,4 @@ Leverage historic data and apply time series analysis to generate a sales foreca
 The goal is to share valuable insights and actionable information that can drive strategic decisions making and support the supermarket's goals for growth, efficiency, and customer satisfaction.
 
 # Useful Insights
-Maximum sales are driven through COD payment mode. Maximum sales are from the Customer segment(48.09%) and then corporate(32.55%) Office supplies is the category that has the maximum sales. Most of the customers preferred standard class ship mode. Next 15 Days Forecast which is very useful for business.
+Maximum sales are driven through COD payment mode. Maximum sales are from the Customer segment(48%) and then corporate(33%) Office supplies is the category that has the maximum sales. Most of the customers preferred standard class ship mode. Next 15 Days Forecast which is very useful for business.
